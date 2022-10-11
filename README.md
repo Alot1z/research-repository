@@ -39,7 +39,7 @@ To create a token to use the remote zip upload, use `script/token <username>` in
 
 ### ResearchItem
 
-The core of the site is the ResearchItem - this holds all the information about an individual piece of research.
+Thedocker-compose exec app script/populate core of the site is the ResearchItem - this holds all the information about an individual piece of research.
 
 It has a ‘published’ boolean that is required to be ticked before appearing on any public listing  - but the page itself can be accessed through its slug at any time.
 
